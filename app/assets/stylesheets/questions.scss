@@ -1,3 +1,20 @@
 // Place all the styles related to the questions controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+body {
+  background-color: #E1E1E1;
+  font-size: 30px;
+}
+
+p {
+  background-color: #F1F1F1;
+  border-radius: 16px;
+  padding: 16px;
+}
+
+input {
+  width: 400px;
+  height: 40px;
+  border-radius: 16px;
+  font-size: 40px;
+}
